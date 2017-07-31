@@ -1,0 +1,23 @@
+{
+  "name": "crawler.calmara",
+  "version": "0.0.1",
+  "description": "download images from calmara.com",
+  "author": "Enrico Weigelt, metux IT consult <enrico.weigelt@gr13.net>",
+  "main": "lib/crawler.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metux/nodejs-crawler.calmara.git"
+  },
+  "dependencies": {
+    "crawler": "^1.0.5",
+    "dirty": "^1.1.0",
+    "md5-file": "^3.1.1",
+    "mkdirp": "^0.5.1",
+    "node-libcurl": "^1.1.0"
+  },
+  "devDependencies": {},
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/metux/nodejs-crawler.calmara/issues"
+  }
+}
