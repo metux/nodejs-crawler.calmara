@@ -1,6 +1,6 @@
 {
   "name": "crawler.calmara",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "download images from calmara.com",
   "author": "Enrico Weigelt, metux IT consult <enrico.weigelt@gr13.net>",
   "main": "lib/crawler.js",
